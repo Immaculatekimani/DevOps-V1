@@ -32,9 +32,9 @@ git remote add origin <copied url>
 ## 5. Add, commit and push changes
 
 -> Add the changes you have made in adding the README.nd file in the local repository by typing the following command in your terminal.
-
+```
 git add .
-
+```
 -> Commit the changes by typing:
 ```
  git commit
