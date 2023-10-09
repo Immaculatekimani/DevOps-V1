@@ -42,7 +42,7 @@ git add .
 
  A text editor will appear, type the heading and descriptions of the changes you have made in the current commit.
 
- -> Push the changes to the remote reposiroty with the command:
+ -> Push the changes to the remote repository with the command:
 ```
  git push -u origin main
 ```
