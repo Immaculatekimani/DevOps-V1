@@ -1,5 +1,7 @@
 version: 2
 
+orbs:
+  python: circleci/python@1.0.0
 # jobs refer to a single execution of the build
 jobs:
   # build is the name of the job....they can be multiple and unique
